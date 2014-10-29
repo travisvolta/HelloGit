@@ -21,6 +21,6 @@
         android:layout_below="@+id/textView1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="69dp"
-        android:text="Лишняя кнопка" />
+        android:text="Не лишняя" />
 
 </RelativeLayout>
